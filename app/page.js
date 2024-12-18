@@ -7,6 +7,9 @@ export default function Home() {
     <meta name="description" content="The Manipur board releases the HSLC routine 2025 is released"/>
     <meta name="keywords" content="boards, bosem, bsem, manipur,hslc,time,table, routine "/>
     </Head>
+    <title>Manipur HSLC time table 2024-2025</title>
+    <meta name="description" content="The Manipur board releases the HSLC routine 2025 is released"/>
+    <meta name="keywords" content="boards, bosem, bsem, manipur,hslc,time,table, routine "/>
     <div className="container">  
       <h3>PROGRAMME FOR HIGH SCHOOL LEAVING CERTIFICATE EXAMINATION, 2025</h3>
      <article>
