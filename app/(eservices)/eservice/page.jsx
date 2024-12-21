@@ -1,11 +1,17 @@
 import React from 'react'
 import './eservice.module.css'
 import Link from 'next/link'
+import Head from 'next/head'
 
 
 const page = () => {
   return (
 <div>
+  <Head>
+    <title>E Services Manipur</title>
+    <meta name="description" content="E Services Manipur" />
+    <meta name="keywords" content="E-Services-Manipur,EService, Manipur, obc, income, domicile, certificate" />
+  </Head>
     <h1>E Services Manipur</h1>
     <p>The Government of Manipur has launched e-Services Manipur, a unified platform to streamline access to various government services. This blog provides an easy-to-follow guide on what e-Services Manipur is, how to use it, and the essential features you need to know.</p>
 
